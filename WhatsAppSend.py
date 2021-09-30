@@ -11,6 +11,7 @@ import random
 planilha = ed.fileopenbox()
 contatos_df = pd.read_excel(planilha)
 
+
 #abrindo navegador e site pelo profile principal do usuario
 options = webdriver.ChromeOptions()
 options.add_argument(r"--user-data-dir=C:\Users\mathe\AppData\Local\Google\Chrome\User Data")
