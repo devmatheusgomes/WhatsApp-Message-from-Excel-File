@@ -1,0 +1,72 @@
+1633006335499	geckodriver	INFO	Listening on 127.0.0.1:59665
+1633006338484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileOR97Zf"
+1633006339491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileOR97Zf\\search.json.mozlz4", (void 0)))
+1633006341990	Marionette	INFO	Listening on port 59673
+1633006342261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633006342335	Marionette	INFO	Stopped listening on port 59673
+Marionette threw an error: TypeError: chromeWindow is null
+waitForNavigationCompleted@chrome://remote/content/marionette/navigate.js:349:3
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:798:18
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633011479195	geckodriver	INFO	Listening on 127.0.0.1:57798
+1633011482216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofile3rj5EG"
+1633011483217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofile3rj5EG\\search.json.mozlz4", (void 0)))
+1633011485594	Marionette	INFO	Listening on port 57806
+1633011485949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1633011550639	Marionette	INFO	Stopped listening on port 57806
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+zprofilezZaDvy"
+1633011547925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilezZaDvy\\search.json.mozlz4", (void 0)))
+1633011549553	Marionette	INFO	Listening on port 61395
+1633011549643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633011644495	Marionette	INFO	Stopped listening on port 61391633011645080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileAjWwUK"
+1633011645649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileAjWwUK\\search.json.mozlz4", (void 0)))
+1633011647677	Marionette	INFO	Listening on port 53916
+1633011647754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633012763150	Marionette	INFO	Stopped listening on port 53916
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+search.json.mozlz4", (void 0)))
+1633011920044	Marionette	INFO	Listening on port 64323
+1633011920456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.354c89faa13c8648e20b.js, line 56: unreachable code after return statement
+1633011921784	Marionette	INFO	Stopped listening on port 64323
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
