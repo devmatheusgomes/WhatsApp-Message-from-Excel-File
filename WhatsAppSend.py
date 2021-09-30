@@ -1,6 +1,7 @@
 import urllib.parse
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 import time
 import easygui as ed
 import pandas as pd
@@ -10,9 +11,11 @@ import random
 planilha = ed.fileopenbox()
 contatos_df = pd.read_excel(planilha)
 
-#abrindo navegador e site
-navegador = webdriver.Chrome()
-navegador.get('https://web.whatsapp.com/')
+#abrindo navegador e site pelo profile principal do usuario
+options = webdriver.ChromeOptions()
+options.add_argument(r"--user-data-dir=C:\Users\mathe\AppData\Local\Google\Chrome\User Data")
+navegador = webdriver.Chrome(executable_path=r'C:\Path\chromedriver.exe', chrome_options=options)
+navegador.get("https://web.whatsapp.com/")
 
 #esperando abrir conversas
 while len(navegador.find_elements_by_id("side")) < 1:
