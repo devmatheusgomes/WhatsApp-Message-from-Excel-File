@@ -41,3 +41,4 @@ for i, razaos in enumerate(contatos_df['Razao']):
 
 contatos_df.to_excel("Relatório Mensagens.xlsx", index=False)
 ed.msgbox(msg="PROCESSO FINALIZADO", ok_button='OK')
+
