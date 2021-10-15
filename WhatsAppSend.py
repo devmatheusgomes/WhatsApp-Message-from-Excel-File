@@ -34,5 +34,6 @@ for i, razaos in enumerate(contatos_df['Razao']):
         time.sleep(random.randrange(5, 13))
     except Exception:
         pass
+
 ed.msgbox(msg="PROCESSO FINALIZADO", ok_button='OK')
 
