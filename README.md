@@ -14,4 +14,4 @@ Logo após, ele irá abrir automática o WhatsApp Web, e começar a enviar, em s
 Projeto desenvolvido sem fins lucrativos, ou interesses particulares, foi desenvolvido durante estudos da linguagem Python.
 
 # UPDATE
-Generating a new excel sheet with the results of sent messages, whether it was sent or not.
+Update applied, and correction of APIs used in the development of the project, such as readaptation.
